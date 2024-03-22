@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-call-detection": "^1.9.0",
+    "react-native-permissions": "^4.1.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
